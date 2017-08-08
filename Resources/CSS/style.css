@@ -4,9 +4,10 @@ body {
 }
 
 .header {
-  background: url("/Users/bnd918/Documents/Projects/Broadway/Resources/Images/the-flatiron-building.png");
+  background: url(../Images/the-flatiron-building.png);
   text-align: center;
   color: white;
+
 }
 
 .supporting {
