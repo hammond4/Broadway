@@ -11,13 +11,22 @@ body {
 
 }
 
-.supporting {
-  text-align: center;
-}
-
 .nav {
   font-size: 18px;
   color: white;
+
+}
+
+.process {
+  text-align: center;
+  font weight: bold;
+
+}
+
+.process-item {
+  display: block;
+
+}
 
 h1, h2, h3 {
   font-weight: bold;
@@ -27,7 +36,7 @@ h1, h2, h3 {
 h1 {
   font-size: 70px;
   color: white;
-
+  
 }
 
 h2 {
